@@ -1,6 +1,6 @@
 :root{
   --bg:white;
-  --textColor:black;
+  --textColor:rgb(0, 0, 0);
   --softBg:#f0f0f0;
   --softTextColor:#626262;
 
@@ -13,23 +13,23 @@
 
 body{
   max-width: 100vw;
-  overflow: hidden;
+  overflow: visible;
 }
 
 a{
   color:inherit;
   text-decoration: none ;
 }
-.light{
+.dark{
   --bg:#0f172a;
   --textColor:#ddd;
   --softBg:#1f273a;
   --softTextColor:#a6a6a6;
-
 }
 .container{
   min-height: 100vh;
   background-color: var(--bg);
+  color: var(--textColor);
 }
 
 .wrapper{

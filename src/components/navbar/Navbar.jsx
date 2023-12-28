@@ -1,4 +1,3 @@
-import React from 'react'
 import styles from './navbar.module.css'
 import Image from 'next/image'
 import Link from 'next/link'
@@ -20,9 +19,9 @@ export default function Navbar(){
             </div>
             <ThemeToggle/>
             <div className={styles.links}>
-                <Link href={"/"}>HomePage</Link>
-                <Link href={"/"}>Contact</Link>
-                <Link href={"/"}>About</Link>
+                <Link href={"/"} className={styles.link}>HomePage</Link>
+                <Link href={"/"} className={styles.link}>Contact</Link>
+                <Link href={"/"} className={styles.link}>About</Link>
                 <AuthLinks/>
             </div>
         </nav>
