@@ -17,7 +17,7 @@ export default function Feature(){
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                     </h1>
                     <p className={styles.postDesc}>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, quod officiis at ipsam blanditiis vitae voluptatem ab velit consequuntur. Adipisci, veritatis voluptatum! Sequi officia, libero ducimus aliquam animi iusto recusandae maiores itaque sunt quos at, dignissimos magnam assumenda explicabo, accusantium iste modi non est omnis dicta laborum. Incidunt, animi dolores! Aliquid a eum vitae neque quae ipsum velit ullam omnis laborum, expedita nobis iste eveniet totam quam quia, dolor veniam non esse sint sequi repellat, ratione cum. Sunt, ipsum! Aliquid in, impedit hic consequatur ducimus sint at eaque corporis explicabo sed rem quo dolore sequi commodi vero, quas amet eum.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, quod officiis at ipsam blanditiis vitae voluptatem ab velit consequuntur. Adipisci, veritatis voluptatum!  dolor veniam non esse sint sequi repellat, ratione cum. Sunt, ipsum! Aliquid in, impedit hic consequatur ducimus sint at eaque corporis explicabo sed rem quo dolore sequi commodi vero, quas amet eum.
                     </p>
                     <button className={styles.button }>Read More</button>
                 </div>
